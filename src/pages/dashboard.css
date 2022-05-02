@@ -71,16 +71,13 @@
     width:30px;
     background: url('../components/images/profile.png')
   }
-  .dash-titile
-  {
-  }
   h2{
     position: relative;
     height: 34px;
     width: 137px;
     top:100px;
     color: #232323;
-    font-family: Poppins;
+    font-family: Serif;
     font-size: 24px;
     font-weight: 600;
     letter-spacing: 0;
