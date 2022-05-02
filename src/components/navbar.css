@@ -1,0 +1,87 @@
+.parent-div{
+    height:100%;
+    width: 100%;
+}
+
+.child-wrapper{
+    display: flex;
+}
+.left-rail{
+    width: 220px;
+    height: 1677px;
+    color:#ffffff;
+    background-color: #04162C;
+}
+.left-rail .left-rail-title{
+    position: absolute;
+    top:29.94px;
+    left:40px;
+    height: 34.94px;
+    width: 150.04px;
+    background:url('./images/coden.png') -301px -420px;
+}
+
+.leftmenu{
+    position:relative;
+    text-align:left;
+    top:118px;
+}
+
+.sidebar-items{
+    font-family: Poppins;
+    color:#939598;
+    padding: 20px 0 0 20px;
+    line-height: 21px;
+    list-style:none;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color:#000000;
+}
+
+p:hover{
+    border-left:4px solid #5bbc2e;
+    color:#ffffff;
+}
+.dashsvg{
+    height: 24px;
+    width:24px;
+    background: url('./images/icon_dashboard-icon_dashboard_selected.svg') 96px 49px;
+}
+
+svg{
+    margin-right:25px;
+}
+
+.membersvg {
+    height: 24px;
+    width: 24px;
+    background: url('./images/ic_members-icon_users.svg')  96px 49px;
+  }
+  
+  .projectsvg {
+    height: 24px;
+    width: 24px;
+    background: url('./images//ic_briefcase-icon_briefcase.svg')  96px 49px;
+  }
+  
+  .clientsvg {
+    height: 24px;
+    width: 24px;
+    background: url('./images/ic_rocket-icon_startup.svg')  96px 49px;
+  }
+  
+  .workplansvg {
+    height: 24px;
+    width: 24px;
+    background: url('./images/ic_calendar-icon_date.svg')  96px 49px;
+  }
+  
+  .messagesvg {
+    height: 24px;
+    width: 24px;
+    background: url('./images/ic_chat-icon_chat.svg')  96px 49px;
+  }
+  
